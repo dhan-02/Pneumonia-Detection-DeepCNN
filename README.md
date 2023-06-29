@@ -7,5 +7,5 @@ F1 SCORE  - 88.93 %
 
 Using base model as Inception-v3 and retraining last few layers
 
-![image displayed here](https://github.com/dhan-02/Pneumonia-Detection-Deep-CNN/assets/74642765/08f56d6e-59aa-43ea-a9d4-b150867ca5ac)
+![image](https://github.com/dhan-02/Pneumonia-Detection-DeepCNN/assets/74642765/97cdbd6e-5944-48f6-951b-0a6a19fa6b7d)
 
